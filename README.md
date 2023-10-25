@@ -1,2 +1,6 @@
-# cs-cli
-CloudSteak Cli for cloud management
+# CloudSteak Cli for cloud management
+
+
+## Info
+
+Related: https://github.com/cloudsteak/golang-basics
